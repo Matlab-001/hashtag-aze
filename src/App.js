@@ -9,7 +9,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 // Use the url of raw Data.json file from GitHub
 // Change data inside Data.json in GitHub - Simulating API
 const DATA_URL =
-  "https://raw.githubusercontent.com/elnoor/hashtag-aze/master/src/Data.json";
+  "https://raw.githubusercontent.com/Matlab-001/hashtag-aze/master/src/Data.json";
 
 export const VIEWS = {
   categories: "Kateqoriyalar",
@@ -18,14 +18,14 @@ export const VIEWS = {
 
 export default function App() {
   document.title = "Hashtag Aze";
-  const [data, setData] = useState(localData);
+  const [data, setData] = useState(localData); //Zavaskoy olaraq local Data.json istifade olunur..
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [view, setView] = useState(VIEWS.categories);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     axios
-      .get(DATA_URL)
+      .get(DATA_URL)  ///Daha sonra guthubdaki Data.josn fayli oxunur ...
       .then(result => {
         if (result.statusText.toUpperCase() === "OK" && result.data) {
           setData(result.data);
