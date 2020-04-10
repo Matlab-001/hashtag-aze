@@ -18,14 +18,14 @@ export const VIEWS = {
 
 export default function App() {
   document.title = "Hashtag Aze";
-  const [data, setData] = useState(localData); //Zavaskoy olaraq local Data.json istifade olunur..
+  const [data, setData] = useState(localData); //Zavasdkoy olaraq local Data.json istifade olunur..
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [view, setView] = useState(VIEWS.categories);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     axios
-      .get(DATA_URL)  ///Daha sonra guthubdaki Data.josn fayli oxunur ...
+    .get(DATA_URL)  ///Daha sonra guthubdaki Data.josn fayli oxunur ...
       .then(result => {
         if (result.statusText.toUpperCase() === "OK" && result.data) {
           setData(result.data);
