@@ -1,19 +1,74 @@
 
 [
   {
-    "name": "Animals",
+    "name": "Məşhurlar",
     "color": "#FF9AA2",
-    "icon": "paw",
-    "hashtags": ["animal","animalword","animalkisses","animalista","animalsaddicts","animalfacepaint","animalsofimstagram","animalsadvocate","animalsaddict","animalcare","animalnation","animalflex","animalslivefree","animalblogger","animalflowonthebeach","animalswild","animalhospitals","animalcaptures","animalsmood","animalcrossingqrcode","animalkingdompandora","animalsafety","animaliermood","animalmask","animalcloseups","animald","animalhats","animalaugh","animalocs","AnimalHowze"],
+    "icon": "fire",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
     "subCategories":[
       {
-        "name": "Birds",
+        "name": "Məşhurlar 1",
         "color": "orange",
-        "icon": "dove",
+        "icon": "fire",
         "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
       },
       {
-        "name": "Fish",
+        "name": "Məşhurlar 2",
+        "color": "limengreen",
+        "icon": "fire",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "Bəyəni",
+    "color": "#FF9AA2",
+    "icon": "heart",
+    "hashtags": ["bird", "dog", "yui"]
+  },{
+    "name": "Şərh",
+    "color": "#FF9AA2",
+    "icon": "comments",
+    "hashtags": ["bowling", "soccer", "swimming"]
+  },
+  {
+    "name": "Şirkətlər",
+    "color": "#FF9AA2",
+    "icon": "building",
+    "hashtags": ["bowling", "soccer", "swimming"]
+  },
+  {
+    "name": "Heyvanlar",
+    "color": "#FF9AA2",
+    "icon": "paw",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Pişik",
+        "color": "orange",
+        "icon": "cat",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "İt",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+      {
+        "name": "Ekzotik heyvanlar",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+      {
+        "name": "Quş",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+      {
+        "name": "Balıq",
         "color": "limengreen",
         "icon": "hashtag",
         "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
@@ -21,13 +76,1054 @@
     ]
   },
   {
-    "name": "Business",
-    "color": "#FFDAC1",
-    "icon": "money-bill-wave",
-    "hashtags": ["business", "Businessman", "businesswoman", "Businessowner", "businessowners", "businesscoach", "businesswomen", "businesslife", "businesstips", "businessminded", "businessopportunity", "businesscards", "businesspassion", "businessmen", "businesstrip", "businessquotes", "BusinessCard", "BusinessCasual", "BusinessDevelopment", "businessclass", "businesses", "businesscoaching", "businessgrowth", "businessmindset", "businessonline", "BusinessPlan", "businessgoals", "businesstip", "businesstravel", "businessmarketing"]
+    "name": "Yemək",
+    "color": "#FF9AA2",
+    "icon": "coffee",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Fəstfud",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Yemək içmək",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+      {
+        "name": "Şirniyyat",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+      {
+        "name": "Səhər yeməyi",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+      {
+        "name": "Kabablar",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+      {
+        "name": "Nahar yeməyi",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+      {
+        "name": "Sağlam qida",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
   },
   {
-    "name": "Technology",
+    "name": "İçki",
+    "color": "#FF9AA2",
+    "icon": "glass-martini",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Spirtli içkilər",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Enerji içkiləri",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+      {
+        "name": "Çay",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+      {
+        "name": "Qəhvə",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+
+      {
+        "name": "Şirələr",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "Təbiət",
+    "color": "#FF9AA2",
+    "icon": "tree",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      
+      {
+        "name": "Yaz",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Yay",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Payız",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Qış",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Gün batımı",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+      {
+        "name": "Səma",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      },
+      {
+        "name": "Qış",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+    
+      {
+        "name": "Çay",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Çiçək",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Meşə",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Çəmən",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Dağ",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Dəniz",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      }
+    ]
+  },
+  {
+    "name": "Ailə",
+    "color": "#FF9AA2",
+    "icon": "users",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Valideyn",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Qardaş",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Bacı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Övlad",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Dost",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      }
+    ]
+  },
+  
+  {
+    "name": "Hava",
+    "color": "#FF9AA2",
+    "icon": "cloud",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Günəşli",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Buludlu",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Yağışlı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Qarlı",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "Moda",
+    "color": "#FF9AA2",
+    "icon": "female",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Lak",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Tatu",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Ayaqqabı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Çanta",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Toy geyimləri",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Saç",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Hicab",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Aksesuar",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Makyaj",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "Özəl günlər",
+    "color": "#FF9AA2",
+    "icon": "gift",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Ad günü",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Toy",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Nişan",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Yeni il",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Sevgililər günü",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "8 Mart",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Novruz Bayramı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Ramazan Bayramı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Qurban bayramı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Məzun",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Hallowen",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "İncəsənət",
+    "color": "#FF9AA2",
+    "icon": "palette",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Rəsm",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Rəqqas",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Şeir",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Ədəbiyyat",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Kitab",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Heykəl",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Dizayn",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  
+  {
+    "name": "Səyahət",
+    "color": "#FF9AA2",
+    "icon": "plane",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Hava limanı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      
+      {
+        "name": "Piknik",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "Nəqliyyat",
+    "color": "#FF9AA2",
+    "icon": "subway",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Metro",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Avtobus",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Taksi",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Velosped",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Motorsiklet",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "Əyləncə",
+    "color": "#FF9AA2",
+    "icon": "gamepad",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Alış-veriş",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Yığıncaq",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Oyun",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Teatr",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Film",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      
+      {
+        "name": "Konsert",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  
+  {
+    "name": "Xobbi",
+    "color": "#FF9AA2",
+    "icon": "fire",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Rəssam",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Əl işləri",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Musiqiçi",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Aşbaz",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Aktyor",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "Həyat",
+    "color": "#FF9AA2",
+    "icon": "school",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Universitet həyatı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Lisey həyatı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Məktab həyatı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "İş həyatı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Ailə həyatı",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "Hisslər",
+    "color": "#FF9AA2",
+    "icon": "smile",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Sevincli",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Yorğun",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Məyus",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Qəmgin",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Rahat",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Əsəbi",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "Vip",
+    "color": "#FF9AA2",
+    "icon": "crown",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Məşhur",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "İcon",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Aliqarx",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Bahalı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Kral",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  
+  {
+    "name": "Bakı",
+    "color": "#FF9AA2",
+    "icon": "globe",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Binəqədi",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Nərimanov",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Nəsimi",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Nizami",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "PirAllahı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Qaradağ",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Sabunçu",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Səbail",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Suraxanı",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Xətai",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Xəzər",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Yasamal",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+  
+    "name": "Şəkillər",
+    "color": "#FF9AA2",
+    "icon": "images",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Fotoqrafçılıq",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Ağ-qara",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Portret",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Gecə şəkilləri",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "HDR",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Makro",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Şəhər şəkilləri",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "Avtomobil",
+    "color": "#FF9AA2",
+    "icon": "car",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Bmw",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Mercedess",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Volkswagen",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Peugeot",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Porsche",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Land Rover",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Toyota",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "lexus",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "Musiqi",
+    "color": "#FF9AA2",
+    "icon": "music",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Muğam",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Pop",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Meyxana",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Xalq musiqisi",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Caz",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Elektronik musiqi",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Klassik musiqi",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Vokal",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Türk",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Ərəb",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Disko",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Opera",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "RNB",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Rok",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "İş",
+    "color": "#FFDAC1",
+    "icon": "money-bill-wave",
+    "hashtags": ["animal","animalflex","AnimalHowze"],
+    "subCategories":[
+      {
+        "name": "Satış",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Sığorta",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Maliyyə",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Marketinq",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Xidmət",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Tibb",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Topdan",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+
+      {
+        "name": "Təhsil",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Hüquqşunans",
+        "color": "orange",
+        "icon": "dove",
+        "hashtags": ["birds", "BirdsOfInstagram", "birdwatching", "birdphotography", "birdstagram", "birding", "birdlovers", "birdseyeview", "birdlover", "birddog", "birdlife", "birdman", "birdie", "birdsofprey", "birdy", "birdfreaks", "birdgang", "birdofprey", "birddogoftheday", "birdart", "birdtattoo", "birdhouse", "birdcage", "birdwatcher", "birdextreme", "BirdsOfAFeather", "birdwatchers", "birdsofig", "birdies", "birdphoto"]
+      },
+      {
+        "name": "Dizayn",
+        "color": "limengreen",
+        "icon": "hashtag",
+        "hashtags": ["fish", "fishing", "fisherman", "fishinglife", "fisheye", "fishingtrip", "fishporn", "fishtank", "fishon", "fishnets", "fishingislife", "fishin", "fishingdaily", "fishbowlslime", "fishandchips", "fishingboat", "fishingday", "fishes", "fisher", "fishnet", "fishermen", "fishy", "fishingrod", "fishtail", "fishinggirl", "fishingpicoftheday", "fishmarket", "fisheyelemag", "fishermanswharf", "fishingtime"]
+      }
+    ]
+  },
+  {
+    "name": "Texnologiya",
     "color": "#E2F0CB",
     "icon": "laptop",
     "hashtags": ["technology", "TechnologyRocks", "TechnologyTheseDays", "technologynews", "technologysolutions", "technologyfail", "technologyart", "technologytrends", "technologyr", "TechnologyIsAwesome", "technologysucks", "technologyhatesme", "technologyinnovation", "technologytoenjoy", "technologyaddict", "technologylover", "technologytuesday", "technologyrules", "technologywitch", "technologycompany", "technologytakeover", "technologybali", "TechnologyConsulting", "technologyeducation", "technologyfacts", "TechnologyforGood", "technologyfree", "technologyisamazing", "technologyiscool", "technologyjobs"],
@@ -64,22 +1160,11 @@
       }
     ]
   },
+  
   {
-    "name": "Music",
-    "color": "#B5EAD7",
-    "icon": "music",
-    "hashtags": ["song", "lyrics", "youtube"]
-  },
-  {
-    "name": "Sports",
+    "name": "İdman",
     "color": "#C7CEEA",
     "icon": "futbol",
     "hashtags": ["tv", "dance", "sport"]
-  },
-  {
-    "name": "Food",
-    "color": "#FFB7B2",
-    "icon": "coffee",
-    "hashtags": ["food", "foodie","foods","foodies","foodforthought","foodtruck","foodbeast","foody","foodoptimising","foodforfoodies","food52","foodnetwork","foodgawker","foodography","foodpassion"]
   }
 ]
