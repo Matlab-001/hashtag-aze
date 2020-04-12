@@ -36,7 +36,7 @@ export default function App() {
       }).then(()=>{
         setLoading(false);
       })
-  }, []);
+     }, []);
 
   function changeView(_view) {
     setView(_view);
