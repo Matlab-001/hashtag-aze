@@ -63,12 +63,12 @@ export default function App() {
 
     return (
       <div className="App container">
-        <h4 className="bg-light mb-3 mt-2 mt-n1 mx-n3 pt-2 px-2 py-1 text-center text-secondary border-bottom">
+        <h4 className="header bg-light border-bottom mb-3 position-fixed px-2 py-1 text-center text-secondary w-100">
           {loading && 
           <FontAwesomeIcon icon="spinner" spin size='xs' className="mr-2"/>}
           {view}
         </h4>
-        {viewContent}
+        <div className="mt-5">{viewContent}</div>
       </div>
     );
   }
