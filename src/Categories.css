@@ -5,7 +5,7 @@
 }
 .category:hover {
   opacity: 0.5;
-  border-color: darkgrey !important;
+  border-color: rgb(9, 3, 102) !important;
   cursor: pointer;
 }
 .category .icon-wrapper {

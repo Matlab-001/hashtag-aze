@@ -23,24 +23,24 @@ export default function App() {
   const [view, setView] = useState(VIEWS.categories);
   const [loading, setLoading] = useState(true);
 
-  useEffect(() => {
-    axios
-    .get(DATA_URL)  ///Daha sonra guthubdaki Data.josn fayli oxunur ...
-      .then(result => {
-        if (result.statusText.toUpperCase() === "OK" && result.data) {
-          setData(result.data);
-        }
-      })
-      .catch(error => {
-        console.log(error);
-      }).then(()=>{
-        setLoading(false);
-      })
-     }, []);
+ // useEffect(() => {
+   // axios
+   // .get(DATA_URL)  ///Daha sonra guthubdaki Data.josn fayli oxunur ...
+    //  .then(result => {
+     //   if (result.statusText.toUpperCase() === "OK" && result.data) {
+      //    setData(result.data);
+     //   }
+     // })
+     // .catch(error => {
+      //  console.log(error);
+      //}).then(()=>{
+       // setLoading(false);
+     // })
+     //}, []);
 
   function changeView(_view) {
     setView(_view);
-  }
+   }
 
   function changeCategory(category) {
     setSelectedCategory(category);
